@@ -54,7 +54,7 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 - The [matlab scripts](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts) can be directly opened and run in Matlab.
 
 ### User Guide / Manual
-A manual for the multifocal analysis pipeline including example data is available here.
+A draft user guide for the multifocal image analysis pipeline including examples is available [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide).
 
 ### Source code
 The source code for the individual ImageJ plugins and java tools is available at the respective repositories:
