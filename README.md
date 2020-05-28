@@ -16,7 +16,7 @@ The software was developed in the research groups:
 - [Molecular sensor systems](https://www.caesar.de/en/our-research/current-groups/molecular-sensory-systems/research-focus.html) (research center caesar, Bonn, Germany)
 - [Biophysical Imaging](http://www.iii.uni-bonn.de/en/wachten_lab/) (Institute of Innate Immunity, University of Bonn, Germany)
 
-The project was mainly funded by the DFG priority program SPP 1726 "Microswimmers".
+The project was mainly funded by the [DFG priority program SPP 1726 "Microswimmers"](https://www.fz-juelich.de/ibi/ibi-5//EN/Leistungen/SPP1726/_node.html).
 
 Contacts: 
 - java code: jan.hansen(at)uni-bonn.de
