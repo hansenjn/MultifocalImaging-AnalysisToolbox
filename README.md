@@ -10,12 +10,14 @@ A toolbox to analyze spherical and filamentous objects in multifocal images with
 - [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF): An ImageJ plugin for analyzing flagellar/filaments in images from multifocal microscopy.
 
 ## Licenses
-All software is published under the GNU General Public License v3.0, except few packages included in SpermQ-MF (as also stated in the [SpermQ-MF repository](https://github.com/hansenjn/SpermQ-MF)). In detail, the following implemented packages were developed by others and thus, apply to different licenses:
+All software is published under the [GNU General Public License v3.0](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/LICENSE), except few packages included in SpermQ-MF (as also stated in the [SpermQ-MF repository](https://github.com/hansenjn/SpermQ-MF)). In detail, the following implemented packages were developed by others and thus, apply to different licenses:
 - edu.emory.mathcs.jtransforms.fft\DoubleFFT_1D.java & edu.emory.mathcs.utils\ConcurrencyUtils.java (MPL 1.1/GPL 2.0/LGPL 2.1, Mozilla Public License Version 1.1, author: Piotr Wendykier)
 - AnalyzeSkeleton & Skeletonize3D (GNU General Public License, http://www.gnu.org/licenses/gpl.txt, author: Ignacio Arganda-Carreras)
 
 ## How to cite?
-When using software from this toolbox, please cite https://doi.org/10.1101/2020.05.16.099390.
+When using software from this toolbox, please cite:
+
+Jan N. Hansen, An Gong, Dagmar Wachten, René Pascal, Alex Turpin, Jan F. Jikeli, U. Benjamin Kaupp, Luis Alvarez. Multifocal imaging for precise, label-free tracking of fast biological processes in 3D. bioRxiv 2020.05.16.099390; doi: https://doi.org/10.1101/2020.05.16.099390.
 
 ## Copyright notice and contacts
 Copyright (C) 2016-2020: Jan N. Hansen, An Gong, Jan F. Jikeli, Luis Alvarez
