@@ -53,3 +53,13 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 
 ### User Guide / Manual
 A manual for the multifocal analysis pipeline including example data is available here.
+
+### Source code
+The source code for the individual ImageJ plugins and java tools is available at the respective repositories:
+- [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation)
+- [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3)
+- [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS)
+- [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3)
+- [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF)
+
+The matlab scripts can be found [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts).
