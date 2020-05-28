@@ -10,7 +10,7 @@ A toolbox to analyze spherical and filamentous objects in multifocal images with
 - [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF): An ImageJ plugin for analyzing flagellar/filaments in images from multifocal microscopy.
 
 ## Licenses
-All software is published under the [GNU General Public License v3.0](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/LICENSE), except few packages included in SpermQ-MF (as also stated in the [SpermQ-MF repository](https://github.com/hansenjn/SpermQ-MF)). In detail, the following implemented packages were developed by others and thus, apply to different licenses:
+Software of the MultifocalImaging-AnalysisToolbox is published under the [GNU General Public License v3.0](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/LICENSE), except few packages included in SpermQ-MF (as also stated in the [SpermQ-MF repository](https://github.com/hansenjn/SpermQ-MF)). In detail, the following implemented packages were developed by others and thus, apply to different licenses:
 - edu.emory.mathcs.jtransforms.fft\DoubleFFT_1D.java & edu.emory.mathcs.utils\ConcurrencyUtils.java (MPL 1.1/GPL 2.0/LGPL 2.1, Mozilla Public License Version 1.1, author: Piotr Wendykier)
 - AnalyzeSkeleton & Skeletonize3D (GNU General Public License, http://www.gnu.org/licenses/gpl.txt, author: Ignacio Arganda-Carreras)
 
