@@ -39,11 +39,9 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 - [Matlab](https://www.mathworks.com/downloads) (tested on versions R2018b and R2020a)
 
 ### Installation instructions
-The ImageJ plugins are directly downloaded from the release pages of the individual repositories (download the newest releases of [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation/releases), [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3/releases), [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3/releases), [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF/releases)). The plugins are installed by drag and drop into the ImageJ window (after opening ImageJ) and confirming the installation by pressing save. Next, ImageJ requires to be restarted. Typically the installation process of ImageJ plugins takes only few seconds / minutes (the time that your computer needs to launch ImageJ and relaunch it after placing the plugins).
-
-Java software (i.e. [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS/releases)), after downloading, can be directly run by double clicking (when Java is installed).
-
-Matlab scripts can be directly opened and run in Matlab.
+- The ImageJ plugins are directly downloaded from the release pages of the individual repositories (download the newest releases of [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation/releases), [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3/releases), [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3/releases), [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF/releases)). The plugins are installed by drag and drop into the ImageJ window (after opening ImageJ) and confirming the installation by pressing save. Next, ImageJ requires to be restarted. Typically the installation process of ImageJ plugins takes only few seconds / minutes (the time that your computer needs to launch ImageJ and relaunch it after placing the plugins).
+- Java software (i.e. [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS/releases)), after downloading, can be directly run by double clicking (when Java is installed).
+- Matlab scripts can be directly opened and run in Matlab.
 
 ### User Guide / Manual
 A manual for the multifocal analysis pipeline including example data is available here.
