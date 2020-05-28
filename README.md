@@ -2,7 +2,7 @@
 A toolbox to analyze spherical and filamentous objects in multifocal images with high speed and high precision. 
 
 ## Licenses
-The software are published along https://doi.org/10.1101/2020.05.16.099390. All software is published under the GNU General Public License v3.0, except few packages included in SpermQ-MF as stated in the [SpermQ-MF repository](https://github.com/hansenjn/SpermQ-MF). In detail, the following implemented packages were developed by others and thus, apply to different licenses:
+The included software tools are published along https://doi.org/10.1101/2020.05.16.099390. All software is published under the GNU General Public License v3.0, except few packages included in SpermQ-MF (as also stated in the [SpermQ-MF repository](https://github.com/hansenjn/SpermQ-MF)). In detail, the following implemented packages were developed by others and thus, apply to different licenses:
 - edu.emory.mathcs.jtransforms.fft\DoubleFFT_1D.java & edu.emory.mathcs.utils\ConcurrencyUtils.java (MPL 1.1/GPL 2.0/LGPL 2.1, Mozilla Public License Version 1.1, author: Piotr Wendykier)
 - AnalyzeSkeleton & Skeletonize3D (GNU General Public License, http://www.gnu.org/licenses/gpl.txt, author: Ignacio Arganda-Carreras)
 
