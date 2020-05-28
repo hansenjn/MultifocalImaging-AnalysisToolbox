@@ -24,8 +24,8 @@ Contacts:
 
 ## Included tools
 - [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation): An ImageJ plugin to convert raw camera recordings from a four-plane multifocal imaging setup, where the planes are projected to different positions of the camera chip, into a hyperstack (including image alignment and background and intensity corrections).
-- [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF): An ImageJ plugin for analyzing flagellar/filaments in images from multifocal microscopy.
 - [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3): An ImageJ plugin to obtain the width of beads in multifocal images for generating a calibration table. 
 - [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS): A pure java tool to align bead profiles obtained by MultiFocalParticleTracker-Calibrator-3 across different planes by LMS.
 - [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3): An ImageJ plugin to calculate the z position of beads in multifocal images based on provding a calibrated relationship of bead radius and z position.
 - Bead tracking matlab script: TODO
+- [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF): An ImageJ plugin for analyzing flagellar/filaments in images from multifocal microscopy.
