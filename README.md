@@ -35,7 +35,7 @@ Contacts:
 ## Using the toolbox
 ### System requirements
 #### Hardware requirements
-ImageJ does not require any specific hardware and can also run on low-performing computers. However, a RAM is required that allows to load one image sequence that you aim to analyze into your RAM  at least once, ideally twice or multiple times. ImageJ does not require any specific graphics card. The speed of the analysis depends on the processor speed.
+ImageJ/FIJI does not require any specific hardware and can also run on low-performing computers. However, a RAM is required that allows to load one image sequence that you aim to analyze into your RAM at least once, ideally twice or multiple times. ImageJ does not require any specific graphics card. The speed of the analysis depends on the processor speed.
 
 #### Operating system
 The ImageJ plugins and Java software were developed and tested on Windows 8.1. Matlab scripts were developed and tested on Windows 8.1 and Windows 10. ImageJ and Java is also available for Mac and Linux operating systems, where the ImageJ plugins and Java software in theory can be easily run, too.
@@ -43,7 +43,7 @@ The ImageJ plugins and Java software were developed and tested on Windows 8.1. M
 #### Software requirements
 Performing the analysis pipeline requires the installation of
 - Java™ by Oracle (tested on Version 8, Update 231)
-- [ImageJ](https://imagej.net/Downloads) (tested on versions 1.51u and 1.52i)
+- [ImageJ](https://imagej.net/Downloads) (tested on versions 1.51r, 1.51u, and 1.52i) or ideally, the ImageJ distribution [Fiji](https://imagej.net/Fiji/Downloads) (tested with Fiji including ImageJ version 1.51r). If you want to perform particle tracking, use Fiji instead of ImageJ, because Fiji already includes the ImageJ plugin TrackMate, which is used for particle tracking in the presented analysis pipeline. Otherwise, you need to install [TrackMate](https://imagej.net/TrackMate) with the libraries required by TrackMate manually. The analysis presented in the manuscript and user guide was performed with TrackMate version v2.8.1.
 
 Optionally, for further data exploration, we provide Matlab scripts that require installation of
 - [Matlab](https://www.mathworks.com/downloads) (tested on versions R2018b and R2020a)
