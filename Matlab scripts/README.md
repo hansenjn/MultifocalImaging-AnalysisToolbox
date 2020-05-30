@@ -1,4 +1,4 @@
-# MATLAB scripts for MultifocalImaging-AnalysisToolbox
+# MATLAB script for MultifocalImaging-AnalysisToolbox
 This [MATLAB script](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/Matlab%20scripts/TracksBuilder.m) allows to visualize particle tracks of beads whose 3D position was determined in multifocal images using the MultifocalImaging-AnalysisToolbox. This script belongs to the software published along https://doi.org/10.1101/2020.05.16.099390 (see https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox).
 
 Copyright (C) 2016-2020: Luis Alvarez
