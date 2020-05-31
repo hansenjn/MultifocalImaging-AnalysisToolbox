@@ -50,11 +50,14 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 
 ### Installation instructions
 - The ImageJ plugins are directly downloaded from the release pages of the individual repositories (download the newest releases of [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation/releases), [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3/releases), [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3/releases), [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF/releases)). The plugins are installed by drag and drop into the ImageJ window (after opening ImageJ) and confirming the installation by pressing save. Next, ImageJ requires to be restarted. Typically the installation process of ImageJ plugins takes only few seconds / minutes (the time that your computer needs to launch ImageJ and relaunch it after placing the plugins).
-- Java software (i.e. [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS/releases)), after downloading, can be directly run by double clicking (when Java is installed).
-- The [matlab scripts](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts) can be directly opened and run in Matlab.
+- Java software (i.e. [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS/releases)), after downloading, can be directly run by double clicking (when Java is installed) and do not require any installation procedure.
+- The [MATLAB scripts](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts) can be directly opened and run in MATLAB.
 
 ### User Guide / Manual
-A draft user guide for the multifocal image analysis pipeline including examples is available [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide).
+A draft user guide for the multifocal image analysis pipeline is available [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide).
+
+### Example data
+Example data for testing the individual ImageJ plugins and Java software is provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Example%20Data). Example data to test the MATLAB script for exploratoring bead tracking data sets is provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts).
 
 ### Source code
 The source code for the individual ImageJ plugins and java tools is available at the respective repositories:
