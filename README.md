@@ -8,6 +8,7 @@ A toolbox to analyze spherical and filamentous objects in multifocal images with
 - [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3): An ImageJ plugin to calculate the z position of beads in multifocal images based on provding a calibrated relationship of bead radius and z position.
 - [Matlab scripts to explore bead tracking datasets](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts)
 - [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF): An ImageJ plugin for analyzing flagellar/filaments in images from multifocal microscopy.
+- [SpermQ-MF_GenerateLUT](https://github.com/hansenjn/SpermQ-MF_GenerateLUT): By merging width recordings from piezo-driven multifocal z-stacks through immotile sperm, generate a Look-Up-Table for the relationship between the flagellar width and the flagellar z-position for different positions on the flagellum.
 
 ## Licenses
 Software of the MultifocalImaging-AnalysisToolbox is published under the [GNU General Public License v3.0](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/LICENSE), except few packages included in SpermQ-MF (as also stated in the [SpermQ-MF repository](https://github.com/hansenjn/SpermQ-MF)). In detail, the following implemented packages were developed by others and thus, apply to different licenses:
@@ -49,7 +50,7 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 - [Matlab](https://www.mathworks.com/downloads) (tested on versions R2018b and R2020a)
 
 ### Installation instructions
-- The ImageJ plugins are directly downloaded from the release pages of the individual repositories (download the newest releases of [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation/releases), [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3/releases), [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3/releases), [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF/releases)). The plugins are installed by drag and drop into the ImageJ window (after opening ImageJ) and confirming the installation by pressing save. Next, ImageJ requires to be restarted. Typically the installation process of ImageJ plugins takes only few seconds / minutes (the time that your computer needs to launch ImageJ and relaunch it after placing the plugins).
+- The ImageJ plugins are directly downloaded from the release pages of the individual repositories (download the newest releases of [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation/releases), [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3/releases), [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3/releases), [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF/releases)), and [SpermQ-MF_GenerateLUT](https://github.com/hansenjn/SpermQ-MF_GenerateLUT). The plugins are installed by drag and drop into the ImageJ window (after opening ImageJ) and confirming the installation by pressing save. Next, ImageJ requires to be restarted. Typically the installation process of ImageJ plugins takes only few seconds / minutes (the time that your computer needs to launch ImageJ and relaunch it after placing the plugins).
 - Java software (i.e. [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS/releases)), after downloading, can be directly run by double clicking (when Java is installed) and do not require any installation procedure.
 - The [MATLAB scripts](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts) can be directly opened and run in MATLAB.
 
@@ -66,5 +67,6 @@ The source code for the individual ImageJ plugins and java tools is available at
 - [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS)
 - [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3)
 - [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF)
+- [SpermQ-MF_GenerateLUT](https://github.com/hansenjn/SpermQ-MF_GenerateLUT)
 
 The matlab scripts can be found [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts).
