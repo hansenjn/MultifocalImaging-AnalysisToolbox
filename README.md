@@ -55,10 +55,10 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 - The [MATLAB scripts](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts) can be directly opened and run in MATLAB.
 
 ### User Guide / Manual
-A draft user guide for the multifocal image analysis pipeline is available [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide).
+A user guide for the multifocal image analysis pipeline is available [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide).
 
 ### Example data
-Example data for testing the individual ImageJ plugins and Java software is provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Example%20Data). Example data to test the MATLAB script for exploratoring bead tracking data sets is provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts).
+Example data for testing individual ImageJ plugins and Java tools from the workflow are provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Example%20Data). Example data to test the MATLAB script for exploring bead data sets are provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts).
 
 ### Source code
 The source code for the individual ImageJ plugins and java tools is available at the respective repositories:
