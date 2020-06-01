@@ -1,5 +1,5 @@
 ﻿# Example data sets for SpermQ-MF - reconstruction of the flagellar beat
-This example data set is part of the [MultifocalImaging-AnalysisToolbox](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox).  please see the main page of the [MultifocalImaging-AnalysisToolbox](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox) for copyright notes, license notes, etc. Please read the [User Guide](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide) for detailed explanations!
+This example data set is part of the [MultifocalImaging-AnalysisToolbox](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox).  please see the main page of the [MultifocalImaging-AnalysisToolbox](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox) for copyright notes, license notes, etc. Please read the [User Guide](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide) for detailed explanations.
 
 ## Running the example data with SpermQ-MF
 - Download this folder and place it on your hard disk
