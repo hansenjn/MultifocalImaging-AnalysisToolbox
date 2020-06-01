@@ -1,0 +1,327 @@
+Logfile created on:	2020-06-01	20:23:59
+
+Create XYZ Coordinate lists: arc length maximum: 74,783193
+Create XYZ Coordinate lists: nr of timepoints to save: 250
+t=240: 2 z fits excluded
+t=85: 1 z fits excluded
+t=84: 2 z fits excluded
+t=82: 6 z fits excluded
+t=249: 22 width fits with r < 0.8!
+t=248: 19 width fits with r < 0.8!
+t=247: 17 width fits with r < 0.8!
+t=246: 18 width fits with r < 0.8!
+t=245: 15 width fits with r < 0.8!
+t=244: 11 width fits with r < 0.8!
+t=243: 12 width fits with r < 0.8!
+t=242: 14 width fits with r < 0.8!
+t=241: 17 width fits with r < 0.8!
+t=240: 19 width fits with r < 0.8!
+t=239: 24 width fits with r < 0.8!
+t=238: 11 width fits with r < 0.8!
+t=237: 48 width fits with r < 0.8!
+t=236: 22 width fits with r < 0.8!
+t=216: 11 width fits with r < 0.8!
+t=215: 16 width fits with r < 0.8!
+t=214: 16 width fits with r < 0.8!
+t=213: 27 width fits with r < 0.8!
+t=212: 33 width fits with r < 0.8!
+t=211: 13 width fits with r < 0.8!
+t=206: 7 width fits with r < 0.8!
+t=205: 22 width fits with r < 0.8!
+t=204: 22 width fits with r < 0.8!
+t=203: 32 width fits with r < 0.8!
+t=202: 14 width fits with r < 0.8!
+t=201: 13 width fits with r < 0.8!
+t=200: 13 width fits with r < 0.8!
+t=199: 18 width fits with r < 0.8!
+t=198: 20 width fits with r < 0.8!
+t=197: 18 width fits with r < 0.8!
+t=196: 17 width fits with r < 0.8!
+t=195: 20 width fits with r < 0.8!
+t=194: 22 width fits with r < 0.8!
+t=193: 16 width fits with r < 0.8!
+t=192: 13 width fits with r < 0.8!
+t=191: 15 width fits with r < 0.8!
+t=190: 10 width fits with r < 0.8!
+t=189: 9 width fits with r < 0.8!
+t=188: 36 width fits with r < 0.8!
+t=187: 22 width fits with r < 0.8!
+t=186: 12 width fits with r < 0.8!
+t=185: 41 width fits with r < 0.8!
+t=184: 22 width fits with r < 0.8!
+t=161: 16 width fits with r < 0.8!
+t=160: 19 width fits with r < 0.8!
+t=159: 20 width fits with r < 0.8!
+t=158: 18 width fits with r < 0.8!
+t=157: 7 width fits with r < 0.8!
+t=156: 1 width fits with r < 0.8!
+t=153: 5 width fits with r < 0.8!
+t=152: 12 width fits with r < 0.8!
+t=151: 14 width fits with r < 0.8!
+t=150: 14 width fits with r < 0.8!
+t=149: 16 width fits with r < 0.8!
+t=148: 13 width fits with r < 0.8!
+t=147: 15 width fits with r < 0.8!
+t=146: 16 width fits with r < 0.8!
+t=145: 16 width fits with r < 0.8!
+t=144: 20 width fits with r < 0.8!
+t=143: 20 width fits with r < 0.8!
+t=142: 20 width fits with r < 0.8!
+t=141: 18 width fits with r < 0.8!
+t=140: 18 width fits with r < 0.8!
+t=139: 14 width fits with r < 0.8!
+t=138: 16 width fits with r < 0.8!
+t=137: 12 width fits with r < 0.8!
+t=136: 13 width fits with r < 0.8!
+t=135: 23 width fits with r < 0.8!
+t=134: 21 width fits with r < 0.8!
+t=133: 31 width fits with r < 0.8!
+t=132: 18 width fits with r < 0.8!
+t=108: 4 width fits with r < 0.8!
+t=107: 5 width fits with r < 0.8!
+t=104: 3 width fits with r < 0.8!
+t=102: 8 width fits with r < 0.8!
+t=101: 11 width fits with r < 0.8!
+t=100: 13 width fits with r < 0.8!
+t=99: 14 width fits with r < 0.8!
+t=98: 14 width fits with r < 0.8!
+t=97: 13 width fits with r < 0.8!
+t=96: 16 width fits with r < 0.8!
+t=95: 16 width fits with r < 0.8!
+t=94: 20 width fits with r < 0.8!
+t=93: 22 width fits with r < 0.8!
+t=92: 22 width fits with r < 0.8!
+t=91: 21 width fits with r < 0.8!
+t=90: 24 width fits with r < 0.8!
+t=89: 19 width fits with r < 0.8!
+t=88: 16 width fits with r < 0.8!
+t=87: 17 width fits with r < 0.8!
+t=86: 14 width fits with r < 0.8!
+t=85: 45 width fits with r < 0.8!
+t=84: 34 width fits with r < 0.8!
+t=83: 20 width fits with r < 0.8!
+t=82: 1 points removed as being undefined in width fit: 190,
+t=82: 36 width fits with r < 0.8!
+t=81: 26 width fits with r < 0.8!
+t=80: 17 width fits with r < 0.8!
+t=59: 20 width fits with r < 0.8!
+t=58: 26 width fits with r < 0.8!
+t=57: 21 width fits with r < 0.8!
+t=53: 5 width fits with r < 0.8!
+t=52: 19 width fits with r < 0.8!
+t=51: 25 width fits with r < 0.8!
+t=50: 26 width fits with r < 0.8!
+t=49: 28 width fits with r < 0.8!
+t=48: 18 width fits with r < 0.8!
+t=47: 17 width fits with r < 0.8!
+t=46: 16 width fits with r < 0.8!
+t=45: 16 width fits with r < 0.8!
+t=44: 16 width fits with r < 0.8!
+t=43: 15 width fits with r < 0.8!
+t=42: 18 width fits with r < 0.8!
+t=41: 23 width fits with r < 0.8!
+t=40: 25 width fits with r < 0.8!
+t=39: 27 width fits with r < 0.8!
+t=38: 26 width fits with r < 0.8!
+t=37: 25 width fits with r < 0.8!
+t=36: 16 width fits with r < 0.8!
+t=35: 16 width fits with r < 0.8!
+t=34: 14 width fits with r < 0.8!
+t=33: 41 width fits with r < 0.8!
+t=32: 27 width fits with r < 0.8!
+t=31: 15 width fits with r < 0.8!
+t=30: 23 width fits with r < 0.8!
+t=29: 16 width fits with r < 0.8!
+t=27: 2 width fits with r < 0.8!
+t=8: 15 width fits with r < 0.8!
+t=7: 25 width fits with r < 0.8!
+t=6: 26 width fits with r < 0.8!
+t=5: 16 width fits with r < 0.8!
+t=0: 23 width fits with r < 0.8!
+frame 249: points resorted, 1 outliers removed...
+frame 244: points resorted, 3 outliers removed...
+frame 241: points resorted, 11 outliers removed...
+frame 239: points resorted, 13 outliers removed...
+frame 238: points resorted, 6 outliers removed...
+frame 214: points resorted, 6 outliers removed...
+frame 213: points resorted, 1 outliers removed...
+frame 211: points resorted, 1 outliers removed...
+frame 195: points resorted, 1 outliers removed...
+frame 188: points resorted, 4 outliers removed...
+frame 187: points resorted, 13 outliers removed...
+frame 186: points resorted, 7 outliers removed...
+frame 184: points resorted, 3 outliers removed...
+frame 183: points resorted, 1 outliers removed...
+frame 158: points resorted, 2 outliers removed...
+frame 156: points resorted, 1 outliers removed...
+frame 155: points resorted, 1 outliers removed...
+frame 154: points resorted, 1 outliers removed...
+frame 144: points resorted, 1 outliers removed...
+frame 136: points resorted, 4 outliers removed...
+frame 135: points resorted, 11 outliers removed...
+frame 134: points resorted, 15 outliers removed...
+frame 132: points resorted, 1 outliers removed...
+frame 108: points resorted, 2 outliers removed...
+frame 106: points resorted, 1 outliers removed...
+frame 99: points resorted, 1 outliers removed...
+frame 96: points resorted, 1 outliers removed...
+frame 90: points resorted, 1 outliers removed...
+frame 83: points resorted, 7 outliers removed...
+frame 82: points resorted, 1 outliers removed...
+frame 59: points resorted, 3 outliers removed...
+frame 58: points resorted, 1 outliers removed...
+frame 33: points resorted, 2 outliers removed...
+frame 32: points resorted, 1 outliers removed...
+frame 31: points resorted, 4 outliers removed...
+frame 28: points resorted, 1 outliers removed...
+frame 8: points resorted, 3 outliers removed...
+frame 6: points resorted, 4 outliers removed...
+t=249: 34 fits with r < 0.8 in xy correction!
+t=248: 28 fits with r < 0.8 in xy correction!
+t=247: 22 fits with r < 0.8 in xy correction!
+t=246: 24 fits with r < 0.8 in xy correction!
+t=245: 25 fits with r < 0.8 in xy correction!
+t=244: 18 fits with r < 0.8 in xy correction!
+t=243: 23 fits with r < 0.8 in xy correction!
+t=242: 25 fits with r < 0.8 in xy correction!
+t=241: 57 fits with r < 0.8 in xy correction!
+t=240: 1 points removed as being undefined: 184,
+t=240: 63 fits with r < 0.8 in xy correction!
+t=239: 59 fits with r < 0.8 in xy correction!
+t=238: 2 points removed as being undefined: 190, 189,
+t=238: 58 fits with r < 0.8 in xy correction!
+t=237: 83 fits with r < 0.8 in xy correction!
+t=236: 35 fits with r < 0.8 in xy correction!
+t=235: 24 fits with r < 0.8 in xy correction!
+t=234: 2 fits with r < 0.8 in xy correction!
+t=216: 4 fits with r < 0.8 in xy correction!
+t=215: 10 fits with r < 0.8 in xy correction!
+t=214: 18 fits with r < 0.8 in xy correction!
+t=213: 20 fits with r < 0.8 in xy correction!
+t=212: 23 fits with r < 0.8 in xy correction!
+t=211: 1 fits with r < 0.8 in xy correction!
+t=206: 21 fits with r < 0.8 in xy correction!
+t=205: 27 fits with r < 0.8 in xy correction!
+t=204: 22 fits with r < 0.8 in xy correction!
+t=203: 32 fits with r < 0.8 in xy correction!
+t=202: 24 fits with r < 0.8 in xy correction!
+t=201: 23 fits with r < 0.8 in xy correction!
+t=200: 15 fits with r < 0.8 in xy correction!
+t=199: 18 fits with r < 0.8 in xy correction!
+t=198: 27 fits with r < 0.8 in xy correction!
+t=197: 24 fits with r < 0.8 in xy correction!
+t=196: 26 fits with r < 0.8 in xy correction!
+t=195: 27 fits with r < 0.8 in xy correction!
+t=194: 29 fits with r < 0.8 in xy correction!
+t=193: 28 fits with r < 0.8 in xy correction!
+t=192: 28 fits with r < 0.8 in xy correction!
+t=191: 23 fits with r < 0.8 in xy correction!
+t=190: 16 fits with r < 0.8 in xy correction!
+t=189: 16 fits with r < 0.8 in xy correction!
+t=188: 1 points removed as being undefined: 192,
+t=188: 71 fits with r < 0.8 in xy correction!
+t=187: 1 points removed as being undefined: 199,
+t=187: 55 fits with r < 0.8 in xy correction!
+t=186: 3 points removed as being undefined: 190, 189, 180,
+t=186: 73 fits with r < 0.8 in xy correction!
+t=185: 2 points removed as being undefined: 186, 185,
+t=185: 61 fits with r < 0.8 in xy correction!
+t=184: 28 fits with r < 0.8 in xy correction!
+t=183: 9 fits with r < 0.8 in xy correction!
+t=161: 7 fits with r < 0.8 in xy correction!
+t=160: 19 fits with r < 0.8 in xy correction!
+t=159: 3 fits with r < 0.8 in xy correction!
+t=158: 12 fits with r < 0.8 in xy correction!
+t=157: 4 fits with r < 0.8 in xy correction!
+t=156: 3 fits with r < 0.8 in xy correction!
+t=155: 1 fits with r < 0.8 in xy correction!
+t=154: 7 fits with r < 0.8 in xy correction!
+t=153: 16 fits with r < 0.8 in xy correction!
+t=152: 24 fits with r < 0.8 in xy correction!
+t=151: 27 fits with r < 0.8 in xy correction!
+t=150: 19 fits with r < 0.8 in xy correction!
+t=149: 24 fits with r < 0.8 in xy correction!
+t=148: 18 fits with r < 0.8 in xy correction!
+t=147: 17 fits with r < 0.8 in xy correction!
+t=146: 23 fits with r < 0.8 in xy correction!
+t=145: 23 fits with r < 0.8 in xy correction!
+t=144: 28 fits with r < 0.8 in xy correction!
+t=143: 29 fits with r < 0.8 in xy correction!
+t=142: 27 fits with r < 0.8 in xy correction!
+t=141: 27 fits with r < 0.8 in xy correction!
+t=140: 29 fits with r < 0.8 in xy correction!
+t=139: 28 fits with r < 0.8 in xy correction!
+t=138: 27 fits with r < 0.8 in xy correction!
+t=137: 23 fits with r < 0.8 in xy correction!
+t=136: 19 fits with r < 0.8 in xy correction!
+t=135: 1 points removed as being undefined: 188,
+t=135: 71 fits with r < 0.8 in xy correction!
+t=134: 78 fits with r < 0.8 in xy correction!
+t=133: 51 fits with r < 0.8 in xy correction!
+t=132: 38 fits with r < 0.8 in xy correction!
+t=131: 21 fits with r < 0.8 in xy correction!
+t=108: 5 fits with r < 0.8 in xy correction!
+t=107: 2 fits with r < 0.8 in xy correction!
+t=106: 1 fits with r < 0.8 in xy correction!
+t=105: 5 fits with r < 0.8 in xy correction!
+t=104: 3 fits with r < 0.8 in xy correction!
+t=103: 7 fits with r < 0.8 in xy correction!
+t=102: 19 fits with r < 0.8 in xy correction!
+t=101: 22 fits with r < 0.8 in xy correction!
+t=100: 18 fits with r < 0.8 in xy correction!
+t=99: 27 fits with r < 0.8 in xy correction!
+t=98: 19 fits with r < 0.8 in xy correction!
+t=97: 14 fits with r < 0.8 in xy correction!
+t=96: 25 fits with r < 0.8 in xy correction!
+t=95: 23 fits with r < 0.8 in xy correction!
+t=94: 27 fits with r < 0.8 in xy correction!
+t=93: 29 fits with r < 0.8 in xy correction!
+t=92: 29 fits with r < 0.8 in xy correction!
+t=91: 26 fits with r < 0.8 in xy correction!
+t=90: 27 fits with r < 0.8 in xy correction!
+t=89: 28 fits with r < 0.8 in xy correction!
+t=88: 27 fits with r < 0.8 in xy correction!
+t=87: 27 fits with r < 0.8 in xy correction!
+t=86: 25 fits with r < 0.8 in xy correction!
+t=85: 39 fits with r < 0.8 in xy correction!
+t=84: 50 fits with r < 0.8 in xy correction!
+t=83: 1 points removed as being undefined: 188,
+t=83: 79 fits with r < 0.8 in xy correction!
+t=82: 43 fits with r < 0.8 in xy correction!
+t=81: 47 fits with r < 0.8 in xy correction!
+t=80: 17 fits with r < 0.8 in xy correction!
+t=62: 3 fits with r < 0.8 in xy correction!
+t=59: 16 fits with r < 0.8 in xy correction!
+t=58: 21 fits with r < 0.8 in xy correction!
+t=53: 16 fits with r < 0.8 in xy correction!
+t=52: 23 fits with r < 0.8 in xy correction!
+t=51: 25 fits with r < 0.8 in xy correction!
+t=50: 26 fits with r < 0.8 in xy correction!
+t=49: 28 fits with r < 0.8 in xy correction!
+t=48: 23 fits with r < 0.8 in xy correction!
+t=47: 23 fits with r < 0.8 in xy correction!
+t=46: 24 fits with r < 0.8 in xy correction!
+t=45: 22 fits with r < 0.8 in xy correction!
+t=44: 21 fits with r < 0.8 in xy correction!
+t=43: 21 fits with r < 0.8 in xy correction!
+t=42: 26 fits with r < 0.8 in xy correction!
+t=41: 29 fits with r < 0.8 in xy correction!
+t=40: 35 fits with r < 0.8 in xy correction!
+t=39: 25 fits with r < 0.8 in xy correction!
+t=38: 25 fits with r < 0.8 in xy correction!
+t=37: 25 fits with r < 0.8 in xy correction!
+t=36: 25 fits with r < 0.8 in xy correction!
+t=35: 25 fits with r < 0.8 in xy correction!
+t=34: 22 fits with r < 0.8 in xy correction!
+t=33: 49 fits with r < 0.8 in xy correction!
+t=32: 65 fits with r < 0.8 in xy correction!
+t=31: 1 points removed as being undefined: 185,
+t=31: 66 fits with r < 0.8 in xy correction!
+t=30: 49 fits with r < 0.8 in xy correction!
+t=29: 32 fits with r < 0.8 in xy correction!
+t=28: 15 fits with r < 0.8 in xy correction!
+t=8: 7 fits with r < 0.8 in xy correction!
+t=7: 27 fits with r < 0.8 in xy correction!
+t=6: 6 fits with r < 0.8 in xy correction!
+t=1: 6 fits with r < 0.8 in xy correction!
+t=0: 27 fits with r < 0.8 in xy correction!
