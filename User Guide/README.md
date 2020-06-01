@@ -4,5 +4,5 @@ describes the workflow for tracking beads and reconstructing filaments in multif
 the MultifocalImaging-AnalysisToolbox. See [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/README.md)
 for system requirements, an installation guide, license information, and credits.
 
-Note: By now, the [User Guide PDF file](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/User%20Guide/MultifocalImageAnalysis-UserGuide.pdf)
-is still a draft, it will be completed in the next days.
+Note: By now, instructions on "Flagellar 3D reconstruction" in the [User Guide PDF file](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/User%20Guide/MultifocalImageAnalysis-UserGuide.pdf)
+are still missing - the User Guide will be completed in the next days.
