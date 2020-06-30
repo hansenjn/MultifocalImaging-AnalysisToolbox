@@ -1,6 +1,8 @@
 ﻿# Example data sets for SpermQ-MF - test calibration mode
 This example data set is part of the [MultifocalImaging-AnalysisToolbox](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox).  please see the main page of the [MultifocalImaging-AnalysisToolbox](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox) for copyright notes, license notes, etc. Please read the [User Guide](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide) for detailed explanations!
 
+SpermQ-MF outputs in the example data set have been obtained with SpermQ-MF version v0.3.0. To reproduce these output data, please use [SpermQ-MF version v0.3.0](https://github.com/hansenjn/SpermQ-MF/releases/tag/v0.3.0).
+
 ## Running the example data with SpermQ-MF
 - Download this folder and place it on your hard disk
 - Launch SpermQ-MF: Plugins > JNH > Multi Focal > SpermQ-MF Analysis, set the following settings
