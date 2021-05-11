@@ -16,6 +16,6 @@ The following programs calculate the tracks of beads based on a text file genera
 
 After this, run the software “StatisticsBeads.mlx”. This program computes the precision of the multifocal method from the mean squared displacement of the beads and their theoretical diffusion coefficient.
 <p align="center">
-   <img src="https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/Matlab%20scripts/Images%20for%20Readme/Brownian_StatisticsDisplacementBeads.png" width=400>
+   <img src="https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/Matlab%20scripts/Images%20for%20Readme/Brownian_StatisticsDisplacementBeads.png" width=300>
    <br>
 </p>
