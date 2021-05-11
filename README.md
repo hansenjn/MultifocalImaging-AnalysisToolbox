@@ -6,9 +6,9 @@ A toolbox to analyze spherical and filamentous objects in multifocal images with
 - [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3): An ImageJ plugin to obtain the width of beads in multifocal images for generating a calibration table. 
 - [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS): A pure java tool to align bead profiles obtained by MultiFocalParticleTracker-Calibrator-3 across different planes by LMS.
 - [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3): An ImageJ plugin to calculate the z position of beads in multifocal images based on providing a calibrated relationship of bead radius and z position.
-- [Matlab scripts to explore bead tracking datasets](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts)
 - [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF): An ImageJ plugin for analyzing flagellar/filaments in images from multifocal microscopy.
 - [SpermQ-MF_GenerateLUT](https://github.com/hansenjn/SpermQ-MF_GenerateLUT): By merging width recordings from piezo-driven multifocal z-stacks through immotile sperm, generates a Look-Up-Table for the relationship between the flagellar width and the flagellar z-position for different positions on the flagellum.
+- [Matlab scripts](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts) to explore the output files from 'MultiFocalParticleTracker-Complex-3' and from 'SpermQ-MF'
 
 ## Licenses
 Software of the MultifocalImaging-AnalysisToolbox is published under the [GNU General Public License v3.0](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/LICENSE), except few packages included in SpermQ-MF (as also stated in the [SpermQ-MF repository](https://github.com/hansenjn/SpermQ-MF)). In detail, the following implemented packages were developed by others and thus, apply to different licenses:
@@ -21,7 +21,7 @@ When using software from this toolbox, please cite:
 Jan N. Hansen, An Gong, Dagmar Wachten, René Pascal, Alex Turpin, Jan F. Jikeli, U. Benjamin Kaupp, Luis Alvarez. Multifocal imaging for precise, label-free tracking of fast biological processes in 3D. bioRxiv 2020.05.16.099390; doi: https://doi.org/10.1101/2020.05.16.099390.
 
 ## Copyright notice and contacts
-Copyright (C) 2016-2020: Jan N. Hansen, An Gong, Jan F. Jikeli, Luis Alvarez
+Copyright (C) 2016-2021: Jan N. Hansen, An Gong, Jan F. Jikeli, Luis Alvarez
 
 The software was developed in the research groups:
 - [Molecular sensor systems](https://www.caesar.de/en/our-research/current-groups/molecular-sensory-systems/research-focus.html) (research center caesar, Bonn, Germany)
@@ -58,7 +58,7 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 A user guide for the multifocal image analysis pipeline is available [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide).
 
 ### Example data
-Example data for testing individual ImageJ plugins and Java tools from the workflow are provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Example%20Data). Example data to test the MATLAB script for exploring bead data sets are provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts).
+Example data for testing individual ImageJ plugins and Java tools from the workflow are provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Example%20Data). Example data to test the MATLAB scripts are provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts).
 
 ### Source code
 The source code for the individual ImageJ plugins and java tools is available at the respective repositories:
