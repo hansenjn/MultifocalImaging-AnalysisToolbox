@@ -38,7 +38,7 @@ The program “Reconstruct_tracs.m” can be used to plot the overview of all tr
 **PrecissionLimit**: Precission to filter out particle coordinates
 
 <p align="center">
-   <img src="https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/Matlab%20scripts/Images%20for%20Readme/PIV-Sperm_SideViewTracks.png" width=680>
+   <img src="https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/Matlab%20scripts/Images%20for%20Readme/PIV-Sperm_SideViewTracks.png" width=480>
    <br>
 </p>
 
