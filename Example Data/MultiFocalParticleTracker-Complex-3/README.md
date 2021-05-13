@@ -41,3 +41,6 @@ file was saved, additional files will have been created, e.g.
 
 Next, columns 2, 3, 4, and 8 in the tab-delimited file [BeadExample_Spots_CMFPT_10_10_s.txt](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/Example%20Data/MultiFocalParticleTracker-Complex-3/BeadExample_Spots_CMFPT_10_10_s.txt)
 can be extracted and plotted - they list T, X, Y, Z coordinates for each analyzed bead. For further information on how to further analyze the output file, see our [MATLAB Scripts](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts)). For more details, see also the [User Guide](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide).
+
+## Copyright, license, etc.
+(c) 2021 Jan N. Hansen, An Gong, Luis Alvarez
