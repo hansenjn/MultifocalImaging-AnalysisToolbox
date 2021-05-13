@@ -3,4 +3,4 @@ This example data set belongs to the software published along https://doi.org/10
 
 More information on this data set can be found [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/blob/master/Matlab%20scripts/).
 
-(c) 2021 Jan N. Hansen
+(c) 2016-2021 Jan N. Hansen
