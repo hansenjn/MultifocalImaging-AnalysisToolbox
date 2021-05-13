@@ -57,6 +57,8 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 ### User Guide / Manual
 A user guide for the multifocal image analysis pipeline is available [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/User%20Guide).
 
+Note: Since May 13, 2021 we provide a new version of the user guide, because a new version of [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3/releases) was released. The new version implements a more precise algorithm for inferring the z-position.
+
 ### Example data
 Example data for testing individual ImageJ plugins and Java tools from the workflow are provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Example%20Data). Example data to test the MATLAB scripts are provided [here](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts).
 
