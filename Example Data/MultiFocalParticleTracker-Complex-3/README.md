@@ -1,5 +1,5 @@
 # Example data set for MultiFocalParticleTracker-Complex-3
-To analyze the data set, launch MultiFocalParticleTracker-Complex-3 in ImageJ: Plugins > JNH > Multi Focal > Complex Particle Tracking 3...
+To analyze the data set, launch MultiFocalParticleTracker-Complex-3 in ImageJ via *Plugins > JNH > Multi Focal > Complex Particle Tracking 3...*
 
 Next, set the following settings:
 - xy calibration [µm]: 0.34375 µm / px
