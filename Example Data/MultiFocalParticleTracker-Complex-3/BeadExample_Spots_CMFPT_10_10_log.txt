@@ -1,4 +1,4 @@
-Logfile created on:	2020-05-28	15:30:42
+Logfile created on:	2021-05-13	13:09:09
 
 LUT offset 15,000000 LUT max 35,990000 LUT span 20,990000	LUT stepsize 0,010000 LUTCorrBins 22
 Reference plane for correction factor estimation: 1
