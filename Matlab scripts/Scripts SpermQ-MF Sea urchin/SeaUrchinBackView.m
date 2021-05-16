@@ -64,7 +64,7 @@ for Start = 1:50:350
     FigHand =  figure;
     colormap jet;
     Col = colormap;
-    maxfig (FigHand,1);
+    FigHand.WindowState = 'maximized';
     set(FigHand,'Renderer','opengl','Color',[1 1 1]);
     opengl ('software') % This is to avoid some bug that occurs when capturing the screen with getframe
     light('Style','infinite');

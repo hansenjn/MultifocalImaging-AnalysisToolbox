@@ -91,7 +91,7 @@ function PlotTrack(Tracks,PixelSize,MaxFrames, OverlapFrame, LocationGlass)
     Col = colormap;
 
     if OverlapFrame
-        Background = double(imread('C:\Data\LitteratureNotes\Manuscritos\Multifocal\BeadsHumanSperm\Beads 1\1@0001_IcSpR_Crop4_T3_S4_SubtEditedAVG.png'));
+        Background = double(imread('BackgroundCell.png'));
         Background = Background - min2(Background);
         Background = max2(Background) - Background; %Inverting the image
         imsurf(Background,[0 0 LocationGlass],[0 0 -1],[1 0 0], 11/32)

@@ -102,7 +102,7 @@ ZLIM = AxisSetting.ZLim;
 patch([XLIM(1) XLIM(2) XLIM(2) XLIM(1)], [YLIM(1) YLIM(1) YLIM(1) YLIM(1)],[ZLIM(1) ZLIM(1) ZLIM(2) ZLIM(2)],[0.8 0.8 0.8],'FaceLighting','none');
 patch([XLIM(1) XLIM(1) XLIM(1) XLIM(1)], [YLIM(1) YLIM(2) YLIM(2) YLIM(1)],[ZLIM(1) ZLIM(1) ZLIM(2) ZLIM(2)],[0.8 0.8 0.8],'FaceLighting','none');
 
-maxfig (FigHand,1);
+FigHand.WindowState = 'maximized';
 if Draft
     xlabel('X')
     ylabel('Y')

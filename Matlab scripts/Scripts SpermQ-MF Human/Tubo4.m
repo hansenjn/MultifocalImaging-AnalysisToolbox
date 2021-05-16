@@ -46,3 +46,21 @@ else
 end
 return
 end
+
+function [DataOut] = InterpolationNaN(DataIn,Method)
+
+if nargin == 1
+    Method = 'nearest';
+end
+    DataOut = DataIn;
+     %% A basic function to interpolate the NaN points on the curve
+    if sum(isnan(DataIn))>0
+        RealLocs = find(~isnan(DataIn));
+        NaNLocs = find(isnan(DataIn));
+        try
+            DataOut(NaNLocs) = interp1(RealLocs,DataIn(RealLocs,1),NaNLocs,Method)';
+        catch
+            DataOut(NaNLocs) = interp1(RealLocs,DataIn(1,RealLocs),NaNLocs,Method);
+        end
+    end
+end

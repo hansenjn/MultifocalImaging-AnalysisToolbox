@@ -234,7 +234,7 @@ end
 
 light ('Position',[-0.0735 -0.0090 1.4123])
 axis equal
-maxfig(gcf,1)
+gcf.WindowState = 'maximized';
 axis tight
 box on
 set(gca,'FontSize',20);    
@@ -277,4 +277,15 @@ function h = ColorBar(Label,TickValues,varargin)
 end
 
 
+function ColorMapOut = InterpolatedColormap(ColormapIn,NumberPoints)
+    %Function returns an interpolated colormap that contains as many
+    %elements as requested
+      
+    Step = (NumberPoints-1)/(length(ColormapIn)-1);
+    R = interp1(1:length(ColormapIn),ColormapIn(:,1),1:1/Step:length(ColormapIn));
+    G = interp1(1:length(ColormapIn),ColormapIn(:,2),1:1/Step:length(ColormapIn));
+    B = interp1(1:length(ColormapIn),ColormapIn(:,3),1:1/Step:length(ColormapIn));
+    ColorMapOut = [R' G' B'];
 
+return
+end
