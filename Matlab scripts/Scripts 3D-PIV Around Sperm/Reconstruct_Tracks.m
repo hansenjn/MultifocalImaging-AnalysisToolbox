@@ -92,8 +92,8 @@ function PlotTrack(Tracks,PixelSize,MaxFrames, OverlapFrame, LocationGlass)
 
     if OverlapFrame
         Background = double(imread('BackgroundCell.png'));
-        Background = Background - min2(Background);
-        Background = max2(Background) - Background; %Inverting the image
+        Background = Background - min(min(Background));
+        Background = max(max(Background)) - Background; %Inverting the image
         imsurf(Background,[0 0 LocationGlass],[0 0 -1],[1 0 0], 11/32)
         colormap gray
         hold on
@@ -154,8 +154,8 @@ function PlotIndividualTracks(Tracks,PixelSize, MaxFrames, OverlapFrame, Range, 
 
     if OverlapFrame
         Background = double(imread('BackgroundCell.png'));
-        Background = Background - min2(Background);
-        Background = max2(Background) - Background; %Inverting the image
+        Background = Background - min(min(Background));
+        Background = max(max(Background)) - Background; %Inverting the image
         imsurf(Background,[0 0 LocationGlass],[0 0 -1],[1 0 0], 11/32)
         colormap gray
         hold on

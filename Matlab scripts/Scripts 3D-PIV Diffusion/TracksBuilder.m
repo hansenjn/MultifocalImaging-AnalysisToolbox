@@ -234,7 +234,8 @@ end
 
 light ('Position',[-0.0735 -0.0090 1.4123])
 axis equal
-gcf.WindowState = 'maximized';
+Fig = gcf;
+Fig.WindowState = 'maximized';
 axis tight
 box on
 set(gca,'FontSize',20);    
@@ -253,8 +254,8 @@ patch([XLIM(2) XLIM(1) XLIM(1) XLIM(2)], [YLIM(2) YLIM(2) YLIM(2) YLIM(2)],[ZLIM
 patch([XLIM(2) XLIM(2) XLIM(2) XLIM(2)], [YLIM(1) YLIM(2) YLIM(2) YLIM(1)],[ZLIM(1) ZLIM(1) ZLIM(2) ZLIM(2)],[0.8 0.8 0.8],'FaceLighting','gouraud');
 drawnow
 disp('Saving figures');
-savefig(gcf,'GlobalView.fig');
-saveas(gcf,'GlobalView.png');
+savefig(Fig,'GlobalView.fig');
+saveas(Fig,'GlobalView.png');
 return
 end
 

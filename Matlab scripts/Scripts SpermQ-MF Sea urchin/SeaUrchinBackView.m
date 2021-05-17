@@ -7,7 +7,7 @@ Y_All = ImportData(YFile);
 Z_All = ImportData(ZFile);
 PreciseRegion = 16:132;%Region with good z precision corresponding to 5-45 µm
 Resolution = double(1); %Only needed if coordinates are not provided in µm
-disp(strcat('Max number frames = ', num2str(length(X))))
+disp(strcat('Max number frames = ', num2str(length(X_All))))
 
 %% Plot colorbar
 PlotColorbar('SeaUrchinBackView', 'Time (ms)', 50)
