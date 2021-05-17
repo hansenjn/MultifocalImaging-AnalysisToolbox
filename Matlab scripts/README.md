@@ -9,11 +9,15 @@ The scripts belong to the software published along https://doi.org/10.1101/2020.
 Jan N. Hansen, An Gong, Dagmar Wachten, René Pascal, Alex Turpin, Jan F. Jikeli, U. Benjamin Kaupp, Luis Alvarez. Multifocal imaging for precise, label-free tracking of fast biological processes in 3D. bioRxiv 2020.05.16.099390; doi: https://doi.org/10.1101/2020.05.16.099390.
 
 ## Dependencies & License Notes
-The presented matlab scripts make use of the function mArrow3 from MATLAB central: Georg Stillfried (2021). mArrow3.m - easy-to-use 3D arrow (https://www.mathworks.com/matlabcentral/fileexchange/25372-marrow3-m-easy-to-use-3d-arrow), MATLAB Central File Exchange. Retrieved May 11, 2021.
+Some of the presented matlab scripts use functions from MATLAB central. To ensure direct application of the programs presented in this repository, we have copied the following matlab scripts from Matlab central into the repositories where they are applied. 
 
-Some of the presented matlab scripts make use of the function powersmooth from MATLAB central: Benjamin Friedrich (2021). powersmooth (https://www.mathworks.com/matlabcentral/fileexchange/48799-powersmooth), MATLAB Central File Exchange. Retrieved May 12, 2021.
+* **mArrow3**: from MATLAB central: Georg Stillfried (2021). mArrow3.m - easy-to-use 3D arrow (https://www.mathworks.com/matlabcentral/fileexchange/25372-marrow3-m-easy-to-use-3d-arrow), MATLAB Central File Exchange. Retrieved May 11, 2021.
 
-To ensure direct application of the programs presented in this repository, we have copied the matlab scripts *mArrow3.m* and *powersmooth.m* from Matlab central into the repositories where they are applied. We copied the applying licenses as comments into the copied function files.
+* **powersmooth**: Benjamin Friedrich (2021). powersmooth (https://www.mathworks.com/matlabcentral/fileexchange/48799-powersmooth), MATLAB Central File Exchange. Retrieved May 12, 2021.
+
+* **imsurf**: Matthew Arthington (2021). imsurf: 3D images (https://www.mathworks.com/matlabcentral/fileexchange/28581-imsurf-3d-images), MATLAB Central File Exchange. Retrieved May 17, 2021.
+
+We copied the applying licenses as comments into the copied function files.
 
 # Description & Examples
 ## 1. Estimating x, y, and z precision from statistics of bead displacement
