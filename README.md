@@ -41,7 +41,7 @@ Contacts:
 ImageJ/FIJI does not require any specific hardware and can also run on low-performing computers. However, a RAM is required that allows to load one image sequence that you aim to analyze into your RAM at least once, ideally twice or multiple times. ImageJ does not require any specific graphics card. The speed of the analysis depends on the processor speed.
 
 #### Operating system
-The ImageJ plugins and Java software were developed and tested on Windows 8.1. Matlab scripts were developed and tested on Windows 8.1 and Windows 10. ImageJ and Java is also available for Mac and Linux operating systems, where the ImageJ plugins and Java software in theory can be easily run, too.
+The ImageJ plugins and Java software were developed and tested on Windows 8.1. Matlab scripts were developed and tested on Windows 8.1 and Windows 10. ImageJ and Java are also available for Mac and Linux operating systems, where the ImageJ plugins and Java software in theory can be easily run, too.
 
 #### Software requirements
 Performing the analysis pipeline requires the installation of
@@ -52,8 +52,8 @@ Optionally, for further data exploration, we provide Matlab scripts that require
 - [Matlab](https://www.mathworks.com/downloads) (tested on versions R2018b and R2020a)
 
 ### Installation instructions
-- The ImageJ plugins are directly downloaded from the release pages of the individual repositories (download the newest releases of [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation/releases), [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3/releases), [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3/releases), [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF/releases)), and [SpermQ-MF_GenerateLUT](https://github.com/hansenjn/SpermQ-MF_GenerateLUT). The plugins are installed by drag and drop into the ImageJ window (after opening ImageJ) and confirming the installation by pressing save. Next, ImageJ requires to be restarted. Typically the installation process of ImageJ plugins takes only few seconds / minutes (the time that your computer needs to launch ImageJ and relaunch it after placing the plugins).
-- Java software (i.e. [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS/releases)), after downloading, can be directly run by double clicking (when Java is installed) and do not require any installation procedure.
+- The ImageJ plugins are directly downloaded from the release pages of the individual repositories (download the newest releases of [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation/releases), [MultiFocalParticleTracker-Calibrator-3](https://github.com/hansenjn/MultiFocalParticleTracker-Calibrator-3/releases), [MultiFocalParticleTracker-Complex-3](https://github.com/hansenjn/MultiFocalParticleTracker-Complex-3/releases), [SpermQ-MF](https://github.com/hansenjn/SpermQ-MF/releases)), and [SpermQ-MF_GenerateLUT](https://github.com/hansenjn/SpermQ-MF_GenerateLUT). The plugins are installed by drag and drop into the ImageJ window (after opening ImageJ) and confirming the installation by pressing save. Next, ImageJ requires to be restarted. Typically the installation process of ImageJ plugins takes only a few seconds/minutes (the time that your computer needs to launch ImageJ and relaunch it after placing the plugins).
+- Java software (i.e. [MultiFocal_AlignCurvesByLMS](https://github.com/hansenjn/MultiFocal_AlignCurvesByLMS/releases)), after downloading, can be directly run by double clicking (when Java is installed) and does not require any installation procedure.
 - The [MATLAB scripts](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts) can be directly opened and run in MATLAB.
 
 ### User Guide / Manual
