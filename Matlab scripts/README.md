@@ -1,5 +1,5 @@
 # MATLAB scripts for MultifocalImaging-AnalysisToolbox
-This repository contains matlab scripts for further analysis and visualization of the data produced by the different plugins from the MultifocalImaging-AnalysisToolbox. We also provide example data to test and run the script. More information on how to run the scripts and downloading example data, scroll down to [Description & Examples](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts#description--examples).
+This repository contains matlab scripts for further analysis and visualization of the data produced by the different plugins from the MultifocalImaging-AnalysisToolbox. We also provide example data to test and run the script. For more information on how to run the scripts and downloading example data, scroll down to [Description & Examples](https://github.com/hansenjn/MultifocalImaging-AnalysisToolbox/tree/master/Matlab%20scripts#description--examples).
 
 ## Copyright and how to cite
 Copyright (C) 2016-2021: Luis Alvarez (Contact: luis.alvarez(at)caesar.de)
@@ -72,7 +72,7 @@ An example data set from human sperm can be downloaded [here](https://github.com
 
 Three different programs are used for this purpose:
 
-1. “HumanGlobalView.m” (for human sperm) and “SeaUrchinGlobalView.m” (for sea urchin sperm) serve to generate a global view of the sperm flagellum on a lab reference frame. Only one every four flagella are displayed.
+1. “HumanGlobalView.m” (for human sperm) and “SeaUrchinGlobalView.m” (for sea urchin sperm) serve to generate a global view of the sperm flagellum on a lab reference frame. Only one in four time steps is displayed.
 
 <p align="center">
    <i>Human sperm:</i>
