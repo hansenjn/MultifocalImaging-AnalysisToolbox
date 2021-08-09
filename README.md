@@ -1,5 +1,5 @@
 # MultifocalImaging-AnalysisToolbox
-A toolbox to analyze spherical and filamentous objects in multifocal images with high speed and high precision. The included software tools are published along https://doi.org/10.1101/2020.05.16.099390. 
+A toolbox to analyze spherical and filamentous objects in multifocal images with high speed and high precision. The included software tools are published along https://doi.org/10.1038/s41467-021-24768-4. 
 
 ## Included tools
 - [Multifocal_Preparation](https://github.com/hansenjn/MultiFocal_Preparation): An ImageJ plugin to convert raw multifocal recordings into a hyperstack (including image alignment and background and intensity corrections).
@@ -20,14 +20,14 @@ For some Matlab scripts provided in the folder ['Matlab scripts'](https://github
 ## How to cite?
 When using software from this toolbox, please cite:
 
-Jan N. Hansen, An Gong, Dagmar Wachten, René Pascal, Alex Turpin, Jan F. Jikeli, U. Benjamin Kaupp, Luis Alvarez. Multifocal imaging for precise, label-free tracking of fast biological processes in 3D. bioRxiv 2020.05.16.099390; doi: https://doi.org/10.1101/2020.05.16.099390.
+Hansen, J.N., Gong, A., Wachten, D., Pascal, R., Turpin, A., Jikeli, J.F., Kaupp, U.B., Alvarez, L. Multifocal imaging for precise, label-free tracking of fast biological processes in 3D. *Nat Commun* **12**, 4574 (2021). https://doi.org/10.1038/s41467-021-24768-4
 
 ## Copyright notice and contacts
 Copyright (C) 2016-2021: Jan N. Hansen, An Gong, Jan F. Jikeli, Luis Alvarez
 
 The software was developed in the research groups:
 - [Molecular sensor systems](https://www.caesar.de/en/our-research/current-groups/molecular-sensory-systems/research-focus.html) (research center caesar, Bonn, Germany)
-- [Biophysical Imaging](http://www.iii.uni-bonn.de/en/wachten_lab/) (Institute of Innate Immunity, University of Bonn, Germany)
+- [Biophysical Imaging](https://www.iiibonn.de/dagmar-wachten-lab/dagmar-wachten-lab-science) (Institute of Innate Immunity, University of Bonn, Germany)
 
 The project was mainly funded by the [DFG priority program SPP 1726 "Microswimmers"](https://www.fz-juelich.de/ibi/ibi-5//EN/Leistungen/SPP1726/_node.html).
 
